@@ -25,9 +25,7 @@ https://en.wikipedia.org/wiki/Euclidean algorithm.
 }
 
 \keyword{ GCD, Euclidean Algorithm }
-\seealso{
-
-\code{\link[<pkg>:<pkg>-package]{<pkg>}}}
+\seealso{https://en.wikipedia.org/wiki/Greatest_common_divisor}
 \examples{
 euclidean(123612, 13892347912)
 euclidean(100, 1000)
