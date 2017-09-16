@@ -17,7 +17,8 @@ the output will be a integer otheriwise it will return an error.
 Euclidean() returns the greatest common divisor (GCD) of two numbers.
 }
 \author{
-\packageAuthor{ Authors@R: c(person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))}
+\packageAuthor{ Farhana Chowdhury Tondra}
+ \email{tondralok@yahoo.com} 
 
 Maintainer \packageMaintainer{ Farhana Chowdhury Tondra <tondralok@yahoo.com>}
 }
