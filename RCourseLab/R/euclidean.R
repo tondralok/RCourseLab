@@ -58,3 +58,5 @@ if(is.numeric(data))
    stop("Data is not numeric ! \n",call. = FALSE)
 }
 
+euclidean(123612, 13892347912)
+euclidean(100, 1000)
