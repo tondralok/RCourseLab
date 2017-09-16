@@ -9,17 +9,16 @@
 }
 \details{
 
-The DESCRIPTION file:
+The DESCRIPTION file
 \packageDESCRIPTION{RCourseLab}
 \packageIndices{RCourseLab}
 If input data is numeric or integer then 
 the output will be a integer otheriwise it will return an error.
 Euclidean() returns the greatest common divisor (GCD) of two numbers.
 }
-\author{
-\packageAuthor{RCourseLab}
+\author{ packageAuthor {Farhana Chowdhury Tondra}
 
-Maintainer \packageMaintainer{RCourseLab}
+Maintainer packageMaintainer{Farhana Chowdhury Tondra}
 }
 \references{
 https://en.wikipedia.org/wiki/Euclidean algorithm.
