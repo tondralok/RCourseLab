@@ -1,8 +1,8 @@
 #' Euclidean algorithm for GCD.
 #' 
 #' Euclidean() returns the greatest common divisor (GCD) of two numbers.
-#' @param x numeric scalars of integers
-#' @param y numeric scalars of integers
+#' @param x numeric scalars of integers.
+#' @param y numeric scalars of integers.
 #'
 #' @return If input data is numeric or integer then 
 #' the output will be a integer otheriwise it will return an error.

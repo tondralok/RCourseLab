@@ -1,36 +1,37 @@
 \name{RCourseLab-package}
 \alias{RCourseLab-package}
-\alias{RCourseLab}
 \docType{package}
 \title{
 \packageTitle{RCourseLab}
 }
 \description{
-\packageDescription{RCourseLab}
+\packageDescription{Euclidean() returns the greatest common divisor (GCD) of two numbers.}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{RCourseLab}
+\packageDESCRIPTION{Euclidean() returns the greatest common divisor (GCD) of two numbers.}
 \packageIndices{RCourseLab}
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+If input data is numeric or integer then 
+the output will be a integer otheriwise it will return an error.
+Euclidean() returns the greatest common divisor (GCD) of two numbers.
 }
 \author{
-\packageAuthor{RCourseLab}
+\packageAuthor{ Authors@R: c(
+    person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),
+    person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))}
 
-Maintainer: \packageMaintainer{RCourseLab}
+Maintainer: \packageMaintainer{ tondralok@yahoo.com}
 }
 \references{
-~~ Literature or other references for background information ~~
+https://en.wikipedia.org/wiki/Euclidean algorithm.
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the ~~
-~~ R documentation directory ~~
-\keyword{ package }
+
+\keyword{ GCD, Euclidean Algorithm }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
+
+\code{\link[<pkg>:<pkg>-package]{<pkg>}}}
 \examples{
-~~ simple examples of the most important functions ~~
+euclidean(123612, 13892347912)
+euclidean(100, 1000)
 }
