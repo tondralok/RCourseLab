@@ -9,7 +9,7 @@
 }
 \details{
 
-The DESCRIPTION file:
+The DESCRIPTION file
 \packageDESCRIPTION{RCourseLab}
 \packageIndices{RCourseLab}
 If input data is numeric or integer then 
@@ -17,7 +17,7 @@ the output will be a integer otheriwise it will return an error.
 Euclidean() returns the greatest common divisor (GCD) of two numbers.
 }
 \author{
-\packageAuthor{ Farhana Chowdhury Tondra}
+\packageAuthor{Farhana Chowdhury Tondra}
  \email{tondralok@yahoo.com} 
 
 Maintainer \packageMaintainer{ Farhana Chowdhury Tondra <tondralok@yahoo.com>}
