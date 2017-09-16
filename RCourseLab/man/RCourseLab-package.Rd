@@ -5,12 +5,12 @@
 \packageTitle{RCourseLab}
 }
 \description{
-\packageDescription{RCourseLab consists of two functions.}
+\packageDescription{RCourseLab}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{RCourseLab consists of two functions.}
+\packageDESCRIPTION{RCourseLab}
 \packageIndices{RCourseLab}
 If input data is numeric or integer then 
 the output will be a integer otheriwise it will return an error.
