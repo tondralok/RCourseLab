@@ -5,24 +5,21 @@
 \packageTitle{RCourseLab}
 }
 \description{
-\packageDescription{Euclidean() returns the greatest common divisor (GCD) of two numbers.}
+\packageDescription{RCourseLab consists of two functions.}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{Euclidean() returns the greatest common divisor (GCD) of two numbers.}
+\packageDESCRIPTION{RCourseLab consists of two functions.}
 \packageIndices{RCourseLab}
 If input data is numeric or integer then 
 the output will be a integer otheriwise it will return an error.
 Euclidean() returns the greatest common divisor (GCD) of two numbers.
 }
 \author{
-\packageAuthor{ Authors@R: c(
-    person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),
-    person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))}
+\packageAuthor{ Authors@R: c(person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))}
 
-\Maintainer
-\packageMaintainer{ Farhana Chowdhury Tondra <tondralok@yahoo.com>}
+Maintainer \packageMaintainer{ Farhana Chowdhury Tondra <tondralok@yahoo.com>}
 }
 \references{
 https://en.wikipedia.org/wiki/Euclidean algorithm.
