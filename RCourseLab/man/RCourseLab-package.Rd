@@ -21,7 +21,8 @@ Euclidean() returns the greatest common divisor (GCD) of two numbers.
     person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),
     person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))}
 
-Maintainer: \packageMaintainer{ tondralok@yahoo.com}
+\Maintainer
+\packageMaintainer{ Farhana Chowdhury Tondra <tondralok@yahoo.com>}
 }
 \references{
 https://en.wikipedia.org/wiki/Euclidean algorithm.

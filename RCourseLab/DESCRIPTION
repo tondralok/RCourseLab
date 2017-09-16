@@ -6,7 +6,7 @@ Date: 2017-09-15
 Authors@R: c(
     person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),
     person("Farha", "Shazmeen", email = "syesh076@student.liu.se", role = "aut"))
-Maintainer: tondralok@yahoo.com
+Maintainer: Farhana Chowdhury Tondra <tondralok@yahoo.com>
 Description: The lab constists of writing a package that is version controlled on github.com.
 License:CC0
 RoxygenNote: 6.0.1

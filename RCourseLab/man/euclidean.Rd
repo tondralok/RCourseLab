@@ -7,9 +7,9 @@
 euclidean(x, y)
 }
 \arguments{
-\item{x}{numeric scalars of integers}
+\item{x}{numeric scalars of integers.}
 
-\item{y}{numeric scalars of integers}
+\item{y}{numeric scalars of integers.}
 }
 \value{
 If input data is numeric or integer then 
