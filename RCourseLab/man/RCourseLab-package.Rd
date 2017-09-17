@@ -12,21 +12,23 @@
 The DESCRIPTION file
 \packageDESCRIPTION{RCourseLab}
 \packageIndices{RCourseLab}
-If input data is numeric or integer then 
-the output will be a integer otheriwise it will return an error.
-Euclidean() returns the greatest common divisor (GCD) of two numbers.
+Package contains of implementations of two algorithm. Dijkstra is for finding the shortest path from the initial node and Euclidean is for calculating greatest common divisior of two numbers. 
 }
 \author{ packageAuthor {Farhana Chowdhury Tondra}
 
 Maintainer packageMaintainer{Farhana Chowdhury Tondra}
 }
 \references{
-https://en.wikipedia.org/wiki/Euclidean algorithm.
+https://en.wikipedia.org/wiki/Euclideanalgorithm.
+https://en.wikipedia.org/wiki/Dijkstra%27salgorithm.
 }
 
 \keyword{ GCD, Euclidean Algorithm }
-\seealso{https://en.wikipedia.org/wiki/Greatest_common_divisor}
+\seealso{https://en.wikipedia.org/wiki/Greatest_common_divisor.
+https://www.youtube.com/watch?v=gdmfOwyQlcI.}
 \examples{
 euclidean(123612, 13892347912)
 euclidean(100, 1000)
+dijkstra(wiki_graph, 1)
+dijkstra(wiki_graph, 3)
 }
