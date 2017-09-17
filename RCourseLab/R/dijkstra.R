@@ -44,6 +44,6 @@ dijkstra<- function(graph,init_node){
   }
   
   
-  mat
+  mat[,2]
   
 }

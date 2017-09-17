@@ -12,9 +12,12 @@
 #' euclidean(100, 1000)
 
 euclidean<- function(x,y){
+  x<-abs(x)
+  y<-abs(y)
 
   data <- c(x,y)
-               if(x>y){
+              
+           if(x>y){
                  a<-x
                  b<-y}
                else {
@@ -58,5 +61,3 @@ if(is.numeric(data))
    stop("Data is not numeric ! \n",call. = FALSE)
 }
 
-euclidean(123612, 13892347912)
-euclidean(100, 1000)
