@@ -16,7 +16,7 @@ If input data is numeric or integer then
 the output will be a integer otheriwise it will return an error.
 }
 \description{
-Euclidean() returns the greatest common divisor (GCD) of two numbers.
+The function returns the greatest common divisor (GCD) of two numbers.
 }
 \examples{
 euclidean(123612, 13892347912)

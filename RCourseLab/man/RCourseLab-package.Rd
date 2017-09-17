@@ -1,5 +1,4 @@
 \name{RCourseLab-package}
-\alias{RCourseLab-package}
 \docType{package}
 \title{
 \packageTitle{RCourseLab}

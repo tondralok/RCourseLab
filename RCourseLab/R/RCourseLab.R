@@ -1,6 +1,6 @@
-#' RCourseLab: A package for Lab 3 Assigments.
+#' A package for Lab 3 Assigments.
 #'
-#' The RCourseLab package provides two functions:
+#' This package provides two functions:
 #' euclidean & dijkstra.
 #' 
 #' @section euclidean functions:
@@ -8,5 +8,7 @@
 #' @section dijkstra functions:
 #' dijkstra() returns the shortest path based on the algorithm.
 #' @docType package
+#' 
 #' @name RCourseLab
+#' 
 NULL

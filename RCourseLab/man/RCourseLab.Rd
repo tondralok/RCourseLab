@@ -4,9 +4,9 @@
 \name{RCourseLab}
 \alias{RCourseLab}
 \alias{RCourseLab-package}
-\title{RCourseLab: A package for Lab 3 Assigments.}
+\title{A package for Lab 3 Assigments.}
 \description{
-The RCourseLab package provides two functions:
+This package provides two functions:
 euclidean & dijkstra.
 }
 \section{euclidean functions}{

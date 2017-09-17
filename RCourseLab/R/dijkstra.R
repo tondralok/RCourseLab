@@ -1,7 +1,7 @@
 
 #' Dijkstra Algorithm.
 #'
-#' Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph,
+#' The function is an implementation of algorithm for finding the shortest paths between nodes in a graph,
 #' which may represent, for example, road networks
 #' 
 #' @param graph A data frame consists of three variables.

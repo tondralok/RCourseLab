@@ -15,7 +15,7 @@ dijkstra(graph, init_node)
 Returns the shortest path to every other node from the starting node as a vector.
 }
 \description{
-Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a graph,
+The function is an implementation of algorithm for finding the shortest paths between nodes in a graph,
 which may represent, for example, road networks
 }
 \examples{
