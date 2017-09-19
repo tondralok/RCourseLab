@@ -6,6 +6,8 @@
 \alias{RCourseLab-package}
 \title{A package for Lab 3 Assigments.}
 \description{
+Package contains of implementations of two algorithm.
+Dijkstra is for finding the shortest path from the initial node and Euclidean is for calculating greatest common divisior of two numbers.
 This package provides two functions:
 euclidean & dijkstra.
 }
@@ -19,3 +21,10 @@ Euclidean() returns the greatest common divisor (GCD) of two numbers.
 dijkstra() returns the shortest path based on the algorithm.
 }
 
+\seealso{
+\link[RCourseLab]{euclidean}
+
+\link[RCourseLab]{dijkstra}
+
+\link[RCourseLab]{wiki_graph}
+}

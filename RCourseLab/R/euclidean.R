@@ -7,9 +7,10 @@
 #' @return If input data is numeric or integer then 
 #' the output will be a integer otheriwise it will return an error.
 #' @export
+#' @references \href{https://en.wikipedia.org/wiki/Euclideanalgorithm}{Euclideanalgorithm}
 #'
-#' @examples euclidean(123612, 13892347912)
-#' euclidean(100, 1000)
+#' @examples euclidean(100, 1000)
+#' 
 
 euclidean<- function(x,y){
   x<-abs(x)

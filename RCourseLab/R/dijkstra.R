@@ -1,15 +1,15 @@
-
 #' Dijkstra Algorithm.
 #'
 #' The function is an implementation of algorithm for finding the shortest paths between nodes in a graph,
-#' which may represent, for example, road networks
+#' which may represent, for example, road networks.
 #' 
 #' @param graph A data frame consists of three variables.
 #' @param init_node A numeric scalar variable.
 #'
 #' @return Returns the shortest path to every other node from the starting node as a vector.
 #' @export
-#'
+#' @references \href{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Dijkstra Algorithm}
+#' 
 #' @examples dijkstra(wiki_graph, 1)
 #' 
 dijkstra<- function(graph,init_node){

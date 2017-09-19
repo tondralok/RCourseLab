@@ -17,17 +17,10 @@ Package contains of implementations of two algorithm. Dijkstra is for finding th
 
 Maintainer packageMaintainer{Farhana Chowdhury Tondra}
 }
-\references{
-https://en.wikipedia.org/wiki/Euclideanalgorithm.
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-}
 
 \keyword{ GCD, Euclidean Algorithm }
 \seealso{https://en.wikipedia.org/wiki/Greatest_common_divisor.
 https://www.youtube.com/watch?v=gdmfOwyQlcI.}
-\examples{
-euclidean(123612, 13892347912)
-euclidean(100, 1000)
+\examples{euclidean(100, 1000)
 dijkstra(wiki_graph, 1)
-dijkstra(wiki_graph, 3)
 }
