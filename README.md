@@ -3,7 +3,7 @@ R assignments for course lab3
 
 ---Group 5---
 
-1.Name    : Farhana Chowdhury Tondra 
+1.Name    : Farhana Chowdhury Tondra                         
   LiuID   : farch587        
   GithubID: tondralok   
   
