@@ -9,6 +9,6 @@ R assignments for course lab3
   
 2.Name    : Syeda Farha Shazmeen     
   LiuID   : syesh076   
-  GithubID: syesh  
+  GithubID: farhashazmeen  
 
 [![Build Status](https://travis-ci.org/tondralok/RCourseLab.svg?branch=master)](https://travis-ci.org/tondralok/RCourseLab)
