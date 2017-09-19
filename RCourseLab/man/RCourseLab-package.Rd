@@ -19,7 +19,7 @@ Maintainer packageMaintainer{Farhana Chowdhury Tondra}
 }
 \references{
 https://en.wikipedia.org/wiki/Euclideanalgorithm.
-https://en.wikipedia.org/wiki/Dijkstra%27salgorithm.
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
 }
 
 \keyword{ GCD, Euclidean Algorithm }
