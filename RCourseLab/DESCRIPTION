@@ -1,7 +1,7 @@
 Package: RCourseLab
 Type: Package
 Title: Lab3 Assigment
-Version: 1.0
+Version: 3.4.1
 Date: 2017-09-15
 Authors@R: c(
     person("Farhana", "Chowdhury Tondra", email = "farch587@student.liu.se", role = "cre"),
